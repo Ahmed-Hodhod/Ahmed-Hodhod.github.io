@@ -1,3 +1,2 @@
-# welcome to this repo
-
-go to this https://www.google.com/
+Learn more about github pages from the docs 
+https://docs.github.com/en/pages/quickstart
